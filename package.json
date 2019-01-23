@@ -1,0 +1,22 @@
+{
+  "name": "coach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzeltman/coach.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzeltman/coach/issues"
+  },
+  "homepage": "https://github.com/jzeltman/coach#readme",
+  "dependencies": {
+    "botkit": "^0.7.2"
+  }
+}
